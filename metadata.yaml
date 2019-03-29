@@ -1,11 +1,16 @@
 _repo: Aquarium_59125
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59125-h/images/cover.jpg
 creator:
   author:
     agent_name: Acton, Harold
     gutenberg_agent_id: '50313'
     url: http://www.gutenberg.org/2009/agents/50313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59125#Aquarium
 gutenberg_issued: '2019-03-25'
 gutenberg_type: Text
 identifiers:
